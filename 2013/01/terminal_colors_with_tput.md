@@ -1,6 +1,6 @@
 # Terminal colors with tput
 
-Using `echo -e` and escape sequences for terminal colors is a bad habit. The portable alternative is [tput](http://en.wikipedia.org/wiki/Tput).
+Using `echo -e` and escape sequences for terminal colors is a bad habit. The portable¹ alternative is [tput](http://en.wikipedia.org/wiki/Tput).
 
 This shell snippet - copied 1:1 from [Git's source code](https://github.com/git/git/blob/master/t/test-lib.sh) - implements a simple `say_color` function based on tput:
 
@@ -62,3 +62,5 @@ Here's how to call `say_color`:
 In my terminal, the result looks like this:
 
 ![Picture](https://coderwall-assets-0.s3.amazonaws.com/uploads/picture/file/1110/tput.png)
+
+¹) This is based on my personal experience and the fact that the developers of Git _really_ care about portability. @telemachus pointed out that the code doesn't work under BSD due to incompatible `tput` options. Consequently, the presented technique isn't a panacea.
