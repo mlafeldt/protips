@@ -1,6 +1,8 @@
 #!/bin/sh
-# 2013-01-07-terminal-colors-with-tput.md
+# terminal_colors_with_tput.md
+#
 # Copied 1:1 from https://github.com/git/git/blob/master/t/test-lib.sh
+#
 
 ORIGINAL_TERM=$TERM
 quiet=
