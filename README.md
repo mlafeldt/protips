@@ -8,4 +8,5 @@
 - [Terminal colors with tput](https://coderwall.com/p/igyhka)
 - [Normalize return code to 0 or 1 in C](https://coderwall.com/p/eyfugq)
 - [Embedding POD with different programming languages](https://coderwall.com/p/cuho3w)
-- Easiest way to parse a cookbook's metadata file
+- [Easiest way to parse a cookbook's metadata file](https://coderwall.com/p/wwt0sw)
+- Get real absolutized path to a directory in Shell
