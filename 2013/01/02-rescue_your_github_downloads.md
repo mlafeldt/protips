@@ -18,3 +18,5 @@ To directly download all files, simply add another command to the chain:
 	$ wget -O- -q https://api.github.com/repos/:owner/:repo/downloads | grep html_url | cut -d\" -f4 | wget -i-
 
 (Note that the shown commands depend on GitHub's [Downloads API](http://developer.github.com/v3/repos/downloads/), which will be disabled soon. So hurry up!)
+
+_Published on 2013-01-02_

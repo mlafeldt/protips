@@ -21,3 +21,5 @@ Some notes:
 - This function is portable, while `readlink(1)` is not even part of POSIX.
 - Both `cd` and `pwd` understand `-P` to resolve all symbolic links and operate on the physical path.
 - The same method can be used to get the directory your shell script lives in: `APP_ROOT="$(cd -P -- $(dirname -- "$0") && pwd)"`
+
+_Published on 2013-01-11_

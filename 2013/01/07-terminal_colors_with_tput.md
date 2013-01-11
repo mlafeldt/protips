@@ -64,3 +64,5 @@ In my terminal, the result looks like this:
 ![Picture](https://coderwall-assets-0.s3.amazonaws.com/uploads/picture/file/1110/tput.png)
 
 ¹) This is based on my personal experience and the fact that the developers of Git _really_ care about portability. @telemachus pointed out that the code doesn't work under BSD due to incompatible `tput` options. Consequently, the presented technique isn't a panacea.
+
+_Published on 2013-01-07_

@@ -10,3 +10,5 @@ The benefits:
 - It is portable: your scripts will be run by Dash on OS X and Debian-based systems like Ubuntu (of course, the scripts themselves have to conform to POSIX).
 - It doesn't break OS X and apps that require `/bin/sh` to be Bash.
 - Dash is rad.
+
+_Published on 2013-01-03_
