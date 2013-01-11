@@ -1,6 +1,8 @@
-# Get real absolutized path to a directory in Shell
+# Get real absolute path to a directory in Shell
 
-If you're a Ruby programmer, you might know that `Pathname#realpath` returns the real (absolute) path to a file or directory in the actual filesystem without symlinks or useless dots. For example:
+If you're a Ruby programmer, you might know that `Pathname#realpath` returns the real (absolute) path to a file or directory in the actual filesystem without symlinks or useless dots.
+
+For example:
 
 ```ruby
 [1] pry(main)> require 'pathname'
