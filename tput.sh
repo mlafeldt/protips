@@ -1,5 +1,5 @@
 #!/bin/sh
-# From 07-terminal_colors_with_tput.md
+# Test script for 004-terminal_colors_with_tput.md
 #
 # Copied 1:1 from https://github.com/git/git/blob/master/t/test-lib.sh
 #
