@@ -37,4 +37,4 @@ Running this code gives us:
 
     OK
 
-_Published on 2013-01-XX_
+_Published on 2013-01-14_

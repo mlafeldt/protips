@@ -10,4 +10,4 @@
 - [Embedding POD with different programming languages](https://coderwall.com/p/cuho3w) ([Source](https://github.com/mlafeldt/coderwall/blob/master/006-pod_embedding.md))
 - [Easiest way to parse a cookbook's metadata file](https://coderwall.com/p/wwt0sw) ([Source](https://github.com/mlafeldt/coderwall/blob/master/007-chef_parse_metadata.md))
 - [Get real absolute path to a directory in Shell](https://coderwall.com/p/fr9ynw) ([Source](https://github.com/mlafeldt/coderwall/blob/master/008-shell_realpath.md))
-- Minimal C Unit Testing
+- [Minimal C Unit Testing](https://coderwall.com/p/hytjcq) ([Source](https://github.com/mlafeldt/coderwall/blob/master/009-minimal-c-unit-testing.md))
