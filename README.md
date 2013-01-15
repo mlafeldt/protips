@@ -11,3 +11,4 @@
 - [Easiest way to parse a cookbook's metadata file](https://coderwall.com/p/wwt0sw) ([Source](https://github.com/mlafeldt/coderwall/blob/master/007-chef_parse_metadata.md))
 - [Get real absolute path to a directory in Shell](https://coderwall.com/p/fr9ynw) ([Source](https://github.com/mlafeldt/coderwall/blob/master/008-shell_realpath.md))
 - [Minimal C Unit Testing](https://coderwall.com/p/hytjcq) ([Source](https://github.com/mlafeldt/coderwall/blob/master/009-minimal-c-unit-testing.md))
+- [Testing code inside ruby_block with ChefSpec](https://coderwall.com/p/afdnyw) ([Source](https://github.com/mlafeldt/coderwall/blob/master/010-test_ruby_block_with_chefspec.md))
