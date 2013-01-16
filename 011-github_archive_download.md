@@ -1,4 +1,4 @@
-# Download code snapshot from GitHub without using Git
+# Download code snapshots from GitHub without using Git
 
 This will download all files from a GitHub repo at a given ref (e.g. `master`) to the current folder:
 
