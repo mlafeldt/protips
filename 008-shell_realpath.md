@@ -22,4 +22,4 @@ Some notes:
 - Both `cd` and `pwd` understand `-P` to resolve all symbolic links and operate on the physical path.
 - The same method can be used to get the directory your shell script lives in: `APP_ROOT="$(cd -P -- $(dirname -- "$0") && pwd)"`
 
-_Published on 2013-01-11_
+_Published on [Coderwall](https://coderwall.com/p/fr9ynw) on 2013-01-11_

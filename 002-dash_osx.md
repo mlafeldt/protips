@@ -11,4 +11,4 @@ The benefits:
 - It doesn't break OS X and apps that require `/bin/sh` to be Bash.
 - Dash is rad.
 
-_Published on 2013-01-03_
+_Published on [Coderwall](https://coderwall.com/p/d1ljeq) on 2013-01-03_

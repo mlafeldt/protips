@@ -68,4 +68,4 @@ Here are a few language examples, starting with the obvious one:
 
     ...
 
-_Published on 2013-01-09_
+_Published on [Coderwall](https://coderwall.com/p/cuho3w) on 2013-01-09_

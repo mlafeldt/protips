@@ -37,4 +37,4 @@ Running this code gives us:
 
     OK
 
-_Published on 2013-01-14_
+_Published on [Coderwall](https://coderwall.com/p/hytjcq) on 2013-01-14_

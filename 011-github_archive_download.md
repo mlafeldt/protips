@@ -6,4 +6,4 @@ This will download all files from a GitHub repo at a given ref (e.g. `master`) t
 
 Additionally, you may want to pass `-C DIR` to tar to change the output directory.
 
-_Published on 2013-01-16_
+_Published on [Coderwall](https://coderwall.com/p/-zzhba) on 2013-01-16_

@@ -49,4 +49,4 @@ With `pry`, we can see what the complete metadata API looks like:
 
 Last but not least, if you're interested in the actual implementation of Chef's `Metadata` class, [here's the source code.](https://github.com/opscode/chef/blob/master/lib/chef/cookbook/metadata.rb)
 
-_Published on 2013-01-10_
+_Published on [Coderwall](https://coderwall.com/p/wwt0sw) on 2013-01-10_

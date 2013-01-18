@@ -44,4 +44,4 @@ end
 
 As you can see, the only way to test code inside `ruby_block` is to actually converge the resource. I know that this is not always an option, but here it is.
 
-_Published on 2013-01-15_
+_Published on [Coderwall](https://coderwall.com/p/afdnyw) on 2013-01-15_

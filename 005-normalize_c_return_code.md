@@ -10,4 +10,4 @@ is
 
 But please do not encrypt your return codes further.
 
-_Published on 2013-01-08_
+_Published on [Coderwall](https://coderwall.com/p/eyfugq) on 2013-01-08_

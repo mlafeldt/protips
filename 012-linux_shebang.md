@@ -6,4 +6,4 @@ http://lxr.linux.no/linux+*/fs/binfmt_script.c
 
 Many people don't know that this is actually done in the kernel. You can also see why passing multiple arguments to the interpreter will never work.
 
-_Published on 2013-01-17_
+_Published on [Coderwall](https://coderwall.com/p/pdg77q) on 2013-01-17_

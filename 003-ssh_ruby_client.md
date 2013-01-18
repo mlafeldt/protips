@@ -12,4 +12,4 @@ puts Net::SSH.start(ARGV.shift, ENV['USER'], :auth_methods => ["gssapi-with-mic"
 
 Now you can run the script like this: `ssh-krb <hostname> <command>`
 
-_Published on 2013-01-04_
+_Published on [Coderwall](https://coderwall.com/p/cehpya) on 2013-01-04_
