@@ -1,4 +1,4 @@
-# My Protips
+# My Protips™
 
 ## Jan 2013
 
@@ -15,3 +15,10 @@
 - [Download code snapshots from GitHub without using Git](https://github.com/mlafeldt/protips/blob/master/011-github_archive_download.md)
 - [How the Shebang is processed by the Linux kernel](https://github.com/mlafeldt/protips/blob/master/012-linux_shebang.md)
 - [Calculate checksum for Chef's remote_file resource](https://github.com/mlafeldt/protips/blob/master/013-chef_remote_file_checksum.md)
+
+Contact
+-------
+
+* Web: <https://github.com/mlafeldt/protips>
+* Mail: <mathias.lafeldt@gmail.com>
+* Twitter: [@mlafeldt](https://twitter.com/mlafeldt)
