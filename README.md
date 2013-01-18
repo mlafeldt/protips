@@ -14,3 +14,4 @@
 - [Testing code inside ruby_block with ChefSpec](https://github.com/mlafeldt/protips/blob/master/010-test_ruby_block_with_chefspec.md)
 - [Download code snapshots from GitHub without using Git](https://github.com/mlafeldt/protips/blob/master/011-github_archive_download.md)
 - [How the Shebang is processed by the Linux kernel](https://github.com/mlafeldt/protips/blob/master/012-linux_shebang.md)
+- [Calculate checksum for Chef's remote_file resource](https://github.com/mlafeldt/protips/blob/master/013-chef_remote_file_checksum.md)
