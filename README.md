@@ -15,6 +15,7 @@
 - [Download code snapshots from GitHub without using Git](https://github.com/mlafeldt/protips/blob/master/011-github_archive_download.md)
 - [How the Shebang is processed by the Linux kernel](https://github.com/mlafeldt/protips/blob/master/012-linux_shebang.md)
 - [Calculate checksum for Chef's remote_file resource](https://github.com/mlafeldt/protips/blob/master/013-chef_remote_file_checksum.md)
+- [Speed up package download in Vagrant boxes](https://github.com/mlafeldt/protips/blob/master/014-vagrant_speed_up_package_download.md)
 
 Contact
 -------
