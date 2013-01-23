@@ -1,6 +1,6 @@
 # Check that a remote Git repo or ref exists
 
-I've recently configured a build job in Jenkins that clones source code from GitHub. I accidently entered an invalid Git repository URL and this is what Jenkins yelled at me:
+I've recently configured a build job in Jenkins that clones source code from GitHub. I accidentally entered an invalid Git repository URL and this is what Jenkins yelled at me:
 
     Failed to connect to repository : Command "git ls-remote -h git@github.com:USER/REPO.git HEAD" returned status code 128:
     stdout:
