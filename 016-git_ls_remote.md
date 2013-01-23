@@ -15,4 +15,4 @@ Through this error I learned about [git ls-remote](http://git-scm.com/docs/git-l
 
 All that without cloning the repository in question.
 
-_Published on [Coderwall](https://coderwall.com/p/xxx) on 2013-01-23_
+_Published on [Coderwall](https://coderwall.com/p/tuio0w) on 2013-01-23_
