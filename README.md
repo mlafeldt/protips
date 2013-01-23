@@ -17,6 +17,8 @@
 - [Calculate checksum for Chef's remote_file resource](https://github.com/mlafeldt/protips/blob/master/013-chef_remote_file_checksum.md)
 - [Speed up package download in Vagrant boxes](https://github.com/mlafeldt/protips/blob/master/014-vagrant_speed_up_package_download.md)
 - [Document your shell scripts with TomDoc](https://github.com/mlafeldt/protips/blob/master/015-tomdoc_shell.md)
+- [Check that a remote Git repo or ref exists](https://github.com/mlafeldt/protips/blob/master/016-git_ls_remote.md)
+
 
 Contact
 -------
