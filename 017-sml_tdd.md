@@ -46,10 +46,10 @@ val test_is_older_4 = true : bool
 
 All passing tests should evaluate to _true_; all failing tests to _false_. (You can grep the output for failing tests.)
 
-Based on this, I've written all SML functions in a [TDD](http://en.wikipedia.org/wiki/Test-driven_development) manner using Vim and this Vim key binding:
+Based on this, I've written all SML functions in a [TDD](http://en.wikipedia.org/wiki/Test-driven_development) manner using Vim and this custom key binding:
 
     :map ,t :w\|!cat hw1.sml hw1_test.sml \| sml<CR>
 
-With it, press `,` + `t` and Vim will save your current file and run all tests, resulting in a fast feedback loop.
+Press `,` + `t` and Vim will save the current file and run all tests, resulting in a fast feedback loop.
 
-_Published on [Coderwall](https://coderwall.com/p/xxx) on 2013-01-24_
+_Published on [Coderwall](https://coderwall.com/p/o-izkw) on 2013-01-24_
