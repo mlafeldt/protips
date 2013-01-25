@@ -19,6 +19,7 @@
 - [Document your shell scripts with TomDoc](https://github.com/mlafeldt/protips/blob/master/015-tomdoc_shell.md)
 - [Check that a remote Git repo or ref exists](https://github.com/mlafeldt/protips/blob/master/016-git_ls_remote.md)
 - [Basic TDD with SML](https://github.com/mlafeldt/protips/blob/master/017-sml_tdd.md)
+- [Easiest way to create/empty a file in Shell](https://github.com/mlafeldt/protips/blob/master/018-shell_empty_file.md)
 
 
 Contact
