@@ -1,9 +1,9 @@
-# Easiest way to create/empty a file in Shell
+# Easiest way to create an empty file in Shell
 
 ```sh
-$ >filename
+$ > path/to/file
 ```
 
-The same command can be used to empty an exisitng file.
+The same command can be used to empty an existing file.
 
-_Published on [Coderwall](https://coderwall.com/p/xxx) on 2013-01-25_
+_Published on [Coderwall](https://coderwall.com/p/ozbsla) on 2013-01-25_
