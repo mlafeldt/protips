@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+Dir.glob('???-*.md').each do |filename|
+  content = File.read(filename)
+
+  title = content.match(/^# (.+)$/)[1]
+  _, site, url, date = *content.match(/^_Published on \[(.+)\]\((.+)\) on (.+)_$/)
+
+  puts "* [#{title}](#{url})"
+end
