@@ -20,6 +20,7 @@
 - [Check that a remote Git repo or ref exists](https://github.com/mlafeldt/protips/blob/master/016-git_ls_remote.md)
 - [Basic TDD with SML](https://github.com/mlafeldt/protips/blob/master/017-sml_tdd.md)
 - [Easiest way to create an empty file in Shell](https://github.com/mlafeldt/protips/blob/master/018-shell_empty_file.md)
+- [Knife plugin to generate README.md from metadata.rb](https://github.com/mlafeldt/protips/blob/master/019-knife_cookbook_readme.md)
 
 
 Contact
