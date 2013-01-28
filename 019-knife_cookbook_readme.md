@@ -10,4 +10,4 @@ The plugin helps to
 - write documentation that is consistent among your or your team's cookbooks
 - implement the [DRY/SPOT](http://c2.com/cgi/wiki?DontRepeatYourself) rule (`metadata.rb` is the authoritative source of information)
 
-_Published on [Coderwall](https://coderwall.com/p/xxx) on 2013-01-28_
+_Published on [Coderwall](https://coderwall.com/p/rdkdmw) on 2013-01-28_
