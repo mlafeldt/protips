@@ -21,6 +21,7 @@
 - [Basic TDD with SML](https://github.com/mlafeldt/protips/blob/master/017-sml_tdd.md)
 - [Easiest way to create or empty a file in Shell](https://github.com/mlafeldt/protips/blob/master/018-shell_empty_file.md)
 - [Knife plugin to generate README.md from metadata.rb](https://github.com/mlafeldt/protips/blob/master/019-knife_cookbook_readme.md)
+- [Simple verbose mode for your shell scripts](https://github.com/mlafeldt/protips/blob/master/020-shell_verbose_mode.md)
 
 
 Contact
