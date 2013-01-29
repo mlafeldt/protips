@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
-Dir.glob('???-*.md').each do |filename|
-  content = File.read(filename)
+Dir.glob('???-*.md').sort.each do |file|
+  content = File.read(file)
 
   title = content.match(/^# (.+)$/)[1]
   _, site, url, date = *content.match(/^_Published on \[(.+)\]\((.+)\) on (.+)_$/)
