@@ -2,7 +2,7 @@
 
 Sometimes shell scripts are too verbose. There's too much output and constant grepping becomes a pain very soon. So you add a `--quiet` or `--verbose` option to your script, causing it to show less or more information, respectively.
 
-At this point, you can either clutter your code with lots of _if verbose then/else_ logic, or you make use of redirections as shown here:
+At this point, you can either clutter your code with lots of _if-verbose-then-else_ logic, or you make use of redirections as shown here:
 
 ```sh
 #!/bin/sh
@@ -53,4 +53,4 @@ This goes to stdout.
 Hai!
 ```
 
-_Published on [Coderwall](https://coderwall.com/p/xxx) on 2013-01-29_
+_Published on [Coderwall](https://coderwall.com/p/xcoraw) on 2013-01-29_
