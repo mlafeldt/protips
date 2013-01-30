@@ -27,4 +27,4 @@ $ git churn | tail -n10
 Last but not least, in case you prefer Git aliases (like I do):
 https://github.com/mlafeldt/dotfiles/commit/4fbca97cd1f4241cb477f3ec56e7712905aef85f
 
-_Published on [Coderwall](https://coderwall.com/p/xxx) on 2013-01-30_
+_Published on [Coderwall](https://coderwall.com/p/aig01w) on 2013-01-30_
