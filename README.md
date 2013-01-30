@@ -1,6 +1,6 @@
 # My Protips™
 
-## Jan 2013
+## January 2013
 
 - [Rescue Your GitHub Downloads](https://github.com/mlafeldt/protips/blob/master/001-rescue_your_github_downloads.md)
 - [Set up Dash as default shell for scripts on OS X](https://github.com/mlafeldt/protips/blob/master/002-dash_osx.md)
@@ -23,6 +23,7 @@
 - [Knife plugin to generate README.md from metadata.rb](https://github.com/mlafeldt/protips/blob/master/019-knife_cookbook_readme.md)
 - [Simple verbose mode for your shell scripts](https://github.com/mlafeldt/protips/blob/master/020-shell_verbose_mode.md)
 - [Get churn counts for Git repository](https://github.com/mlafeldt/protips/blob/master/021-git_churn.md)
+- [Shell library to test your Unix tools like Git does](https://github.com/mlafeldt/protips/blob/master/022-sharness.md)
 
 
 Contact
