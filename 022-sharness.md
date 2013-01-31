@@ -4,4 +4,4 @@ I'm a big fan of Git, I'm using it daily. Every now and then I dive into Git's e
 
 Sharness is a portable shell library to write, run, and analyze automated tests for Unix programs. Check it out at http://mlafeldt.github.com/sharness
 
-_Published on [Coderwall](https://coderwall.com/p/xxx) on 2013-01-31_
+_Published on [Coderwall](https://coderwall.com/p/s8hm5w) on 2013-01-31_
