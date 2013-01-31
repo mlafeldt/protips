@@ -1,10 +1,16 @@
 #!/usr/bin/env ruby
 
+GITHUB_ROOT = 'https://github.com/mlafeldt/protips/blob/master'
+
 Dir.glob('???-*.md').sort.each do |file|
   content = File.read(file)
 
   title = content.match(/^# (.+)$/)[1]
   _, site, url, date = *content.match(/^_Published on \[(.+)\]\((.+)\) on (.+)_$/)
+
+  if ARGV.first == '--github'
+    url = "#{GITHUB_ROOT}/#{file}"
+  end
 
   puts "* [#{title}](#{url})"
 end
