@@ -7,6 +7,7 @@ Dir.glob('???-*.md').sort.each do |file|
 
   title = content.match(/^# (.+)$/)[1]
   _, site, url, date = *content.match(/^_Published on \[(.+)\]\((.+)\) on (.+)_$/)
+  y, m, d = date.split('-').map(&:to_i)
 
   if ARGV.first == '--github'
     url = "#{GITHUB_ROOT}/#{file}"
