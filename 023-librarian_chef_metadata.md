@@ -12,4 +12,4 @@ cookbook "name_of_your_cookbook", :path => "."
 
 Ultimately, this trick allows you to distribute your cookbook together with a _Cheffile_ (which is good).
 
-_Published on [Coderwall](https://coderwall.com/p/xxx) on 2013-02-06_
+_Published on [Coderwall](https://coderwall.com/p/bx0rwq) on 2013-02-06_
