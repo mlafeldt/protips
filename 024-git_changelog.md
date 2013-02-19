@@ -1,4 +1,4 @@
-# Git alias to generate changelog
+# Git alias to generate the changelog
 
 When releasing a new version of a project, I usually document the changes since the last release in _CHANGELOG.md_ (or _HISTORY.md_). For this, I used to take the output of `git shortlog` and edit it manually.
 

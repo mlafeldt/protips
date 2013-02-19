@@ -28,7 +28,7 @@
 ## February 2013
 
 * [How to distribute your cookbook with a Cheffile](https://github.com/mlafeldt/protips/blob/master/023-librarian_chef_metadata.md)
-* [Git alias to generate changelog](https://github.com/mlafeldt/protips/blob/master/024-git_changelog.md)
+* [Git alias to generate the changelog](https://github.com/mlafeldt/protips/blob/master/024-git_changelog.md)
 
 Contact
 -------
