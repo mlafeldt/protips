@@ -25,4 +25,4 @@ Last but not least, you can pass `git changelog` a commit range like this:
 $ git changelog v0.1.0..v0.1.1
 ```
 
-_Published on [Coderwall](https://coderwall.com/p/xxx) on 2013-02-19_
+_Published on [Coderwall](https://coderwall.com/p/ch-wew) on 2013-02-19_
