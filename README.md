@@ -29,6 +29,7 @@
 
 * [How to distribute your cookbook with a Cheffile](https://github.com/mlafeldt/protips/blob/master/023-librarian_chef_metadata.md)
 * [Git alias to generate the changelog](https://github.com/mlafeldt/protips/blob/master/024-git_changelog.md)
+* [List all repos of a GitHub user in Markdown format](https://github.com/mlafeldt/protips/blob/master/025-gh_repos.md)
 
 Contact
 -------
