@@ -1,6 +1,6 @@
 # My Protips™
 
-## January 2013
+### January 2013
 
 * [Rescue Your GitHub Downloads](https://github.com/mlafeldt/protips/blob/master/001-rescue_your_github_downloads.md)
 * [Set up Dash as default shell for scripts on OS X](https://github.com/mlafeldt/protips/blob/master/002-dash_osx.md)
@@ -25,13 +25,13 @@
 * [Get churn counts for Git repository](https://github.com/mlafeldt/protips/blob/master/021-git_churn.md)
 * [Shell library to test your Unix tools like Git does](https://github.com/mlafeldt/protips/blob/master/022-sharness.md)
 
-## February 2013
+### February 2013
 
 * [How to distribute your cookbook with a Cheffile](https://github.com/mlafeldt/protips/blob/master/023-librarian_chef_metadata.md)
 * [Git alias to generate the changelog](https://github.com/mlafeldt/protips/blob/master/024-git_changelog.md)
 * [List all repos of a GitHub user in Markdown format](https://github.com/mlafeldt/protips/blob/master/025-gh_repos.md)
 
-## March 2013
+### March 2013
 
 * [Detect if cookbook is run by Vagrant](https://github.com/mlafeldt/protips/blob/master/026-chef_detect_vagrant.md)
 
