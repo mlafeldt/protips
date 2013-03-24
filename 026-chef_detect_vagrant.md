@@ -4,10 +4,11 @@ If you, for whatever reason, want to know whether your cookbook is being run by 
 
 ```ruby
 if node[:instance_role] == 'vagrant'
-  # do something that should only be done inside a Vagrant box
+  # do something that should only be done inside
+  # a Vagrant box
 end
 ```
 
 Of course, this assumes that you do not overwrite `node[:instance_role]`.
 
-_Published on [Coderwall](https://coderwall.com/p/xxx) on 2013-03-xx_
+_Published on [Coderwall](https://coderwall.com/p/yz-ngw) on 2013-03-24_
