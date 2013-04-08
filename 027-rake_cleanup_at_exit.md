@@ -36,4 +36,4 @@ end
 Here, `test:cleanup` is really only run once after `test:lint`, `test:spec`, or
 `test:all`. No `Rake::Task#enhance`. No intermediate steps.
 
-_Published on [Coderwall](https://coderwall.com/p/xxx) on 2013-04-xx_
+_Published on [Coderwall](https://coderwall.com/p/smghmw) on 2013-04-08_
