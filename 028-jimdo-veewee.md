@@ -9,4 +9,4 @@ https://github.com/Jimdo/veewee-definitions
 While Veewee itself is already simple to use, the scripts make it even more
 convenient to build and manage Vagrant boxes.
 
-_Published on [Coderwall](https://coderwall.com/p/xxx) on 2013-05-03_
+_Published on [Coderwall](https://coderwall.com/p/on52eq) on 2013-05-03_
