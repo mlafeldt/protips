@@ -39,6 +39,10 @@
 
 * [Running a Rake task once at exit](https://github.com/mlafeldt/protips/blob/master/027-rake_cleanup_at_exit.md)
 
+### May 2013
+
+* [Convenience scripts for Veewee](https://github.com/mlafeldt/protips/blob/master/028-jimdo-veewee.md)
+
 Contact
 -------
 
