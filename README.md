@@ -43,6 +43,10 @@
 
 * [Convenience scripts for Veewee](https://github.com/mlafeldt/protips/blob/master/028-jimdo-veewee.md)
 
+### October 2013
+
+* [Debugging Chef Runs with CHEF_LOG](https://github.com/mlafeldt/protips/blob/master/029-debugging-chef-runs-with-chef-log.md)
+
 Contact
 -------
 
